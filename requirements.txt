@@ -2,7 +2,7 @@ asgiref==3.2.3
 blinker==1.4
 Django==3.0.3
 django-rest-framework-mongoengine==3.4.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 mongoengine==0.19.1
 pymongo==3.10.1
 pytz==2019.3
